@@ -12,3 +12,4 @@ plt.xlabel("Years")
 plt.ylabel("Number of births")
 plt.legend()
 plt.show()
+# xticks yticks matplotlib
